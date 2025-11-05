@@ -38,4 +38,4 @@ return 0;
 <img width="550" height="176" alt="image" src="https://github.com/user-attachments/assets/712826d3-1d34-4a5b-a5b9-9522ca24babd" />
 
 # RESULT:
-The Implementation of Pseudorandom Number Generation Using Standard library is successful.
+The Implementation of Pseudorandom Number Generation Using Standard library is successfully.
